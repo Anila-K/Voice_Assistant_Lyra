@@ -1,0 +1,275 @@
+command,intent
+Stop the current song. ,stop_song
+give a fast song in tamil,play_song
+Can you tell me what time it is?,time
+Play the track from the beginning.,restart_song
+Who was Albert Einstein?,fetch_info
+Resume the track from pause.,resume_song
+Can you find me a joke?,tell_joke
+Can you resume the music?,resume_song
+Please provide the time.,time
+Can you give me the time?,time
+Can you stop the system?,shut_down
+Pause the current track.,pause_song
+Can you check the time for me?,time
+Can you make me laugh with a joke?,tell_joke
+Give me the current time.,time
+Thank you!,thank_you
+Let me know the time.,time
+Tell me a joke.,tell_joke
+Could you tell me a joke?,tell_joke
+Play something.,play_song
+Start playing the top hits. ,play_song
+Can you stop the track? ,stop_song
+Restart the music now.,restart_song
+What is the weather in Mumbai today?,get_weather
+What is the time now?,time
+Give me the time.,time
+Thank you!,thank_you
+Shut the system down.,shut_down
+Thank you very much!,thank_you
+What is the temperature in London?,get_weather
+What is the weather in New York?,get_weather
+Can you restart the music? ,restart_song
+Can you tell me the current time?,time
+Start a playlist of chill music.,play_song
+Resume the music playback.,resume_song
+What is the weather like in Hyderabad?,get_weather
+Tell me a joke.,tell_joke
+Tell me something about Isaac Newton.,fetch_info
+Can you play the song again?,restart_song
+Play a song from the movie soundtrack.,play_song
+Can you shut down the system? ,shut_down
+Who is Charles Darwin?,fetch_info
+Tell me a joke.,tell_joke
+Could you play a tune?,play_song
+What time do you have?,time
+What is the current weather?,get_weather
+Tell me the weather in Tokyo.,get_weather
+Tell me a joke.,tell_joke
+Play a song thats trending.  ,play_song
+Tell me a joke.,tell_joke
+Who is Marie Curie?,fetch_info
+What is meant by machine learning.,fetch_info
+May I know the time?,time
+What is the weather right now?,get_weather
+Can you resume the song?,resume_song
+Stop the playback. ,stop_song
+What is the weather forecast?,get_weather
+Please play a song.,play_song
+Resume playing the current track. ,resume_song
+Play a song by a female artist.,play_song
+Stop the current song. ,stop_song
+Tell me what the time is.,time
+Give me the weather update.,get_weather
+Tell me something about Isaac Newton.,fetch_info
+Resume playing the song. ,resume_song
+What is the time?,time
+Tell me the temperature in Mumbai.,get_weather
+What is the weather in Delhi? ,get_weather
+Play a random song.,play_song
+Resume the track now.,resume_song
+Do you have the time?,time
+Resume the track from where it left off.  ,resume_song
+"Play a song, please.",play_song
+Tell me one comedy sentence.,tell_joke
+Stop the song.,stop_song
+Who is Albert Einstein?,fetch_info
+I would like to listen malayalam melody,play_song
+Can you pause the music?,pause_song
+Can you play some music?,play_song
+Tell me a humorous joke.,tell_joke
+What time is it currently?,time
+Could you find a joke for me?,tell_joke
+Tell me something about Albert Einstein.,fetch_info
+Give me information on Charles Darwin.,fetch_info
+Please stop the music.,stop_song
+What is the weather in Chennai? ,get_weather
+What is meant by overfitting.,fetch_info
+What is the weather like in Mumbai today? ,get_weather
+Stop the track.,stop_song
+Play a song with a happy vibe.,play_song
+Tell me about Galileo Galilei. ,fetch_info
+Can you shut down the system?,shut_down
+Tell me a fact about the Eiffel Tower.,fetch_info
+Restart the music.,restart_song
+Play a song from the top 100. ,play_song
+Can you find a joke for me?,tell_joke
+Resume the music playback.,resume_song
+What time is showing on your clock?,time
+Play a song thats trending.,play_song
+Restart the current song.,restart_song
+Shut down the computer.,shut_down
+Start the music again.,restart_song
+Turn off the machine.,shut_down
+Can you shut down the system?,shut_down
+Thank you so much!,thank_you
+Power down the machine.,shut_down
+Who is Leonardo da Vinci?,fetch_info
+Stop the ongoing song.,stop_song
+Who is Isaac Newton?,fetch_info
+Play music for me.,play_song
+Stop the track.,stop_song
+Play a song from the 90s.,play_song
+Can you turn off the system?,shut_down
+Power off the system.,shut_down
+Restart playback.,restart_song
+Thank you so much!,thank_you
+Shut down the computer.,shut_down
+Stop the music playback.,stop_song
+Please stop the playback.,stop_song
+Play a song from the latest album. ,play_song
+Pause the music.,pause_song
+What is the forecast for Kolkata?,get_weather
+What’s the time?,time
+Can you fetch information about what is love.,fetch_info
+"What is the time now, please?",time
+Can you tell me a funny joke?,tell_joke
+What is the temperature inn India?,get_weather
+Turn off.,shut_down
+Can you restart the song? ,restart_song
+Could you play a song for me?,play_song
+"Tell me the time, please.",time
+Who is Galileo Galilei?,fetch_info
+What time is it now?,time
+Tell me what is the phone.,fetch_info
+Please check the time for me.,time
+Play a song from the top 100. ,play_song
+Can you play some music?,play_song
+Make the music stop.,stop_song
+I need to know the time.,time
+Restart the song right away.,restart_song
+What is the weather forecast for tomorrow? ,get_weather
+Shut down the computer. ,shut_down
+What is the weather like today?,get_weather
+Thank you for your help!,thank_you
+Pause the music for a moment.,pause_song
+Tell me the exact time.,time
+Put on some tunes.,play_song
+Resume the song from pause.,resume_song
+Please shut down.,shut_down
+Play a pop song for me.,play_song
+Please pause the track.,pause_song
+Play the song from the start. ,restart_song
+Can you play a rock song? ,play_song
+Resume the music.,resume_song
+Tell me about Nikola Tesla.,get_weather
+Can you restart the music?,restart_song
+Play some songs.,play_song
+Play a song from the 80s. ,play_song
+Can you tell me the current time?,time
+what makes india attractive in tourism ,fetch_info
+Tell me the weather in Paris.,get_weather
+What is the forecast for today?,get_weather
+Stop playing music. ,stop_song
+What is the weather like in San Francisco?,get_weather
+Thanks a lot!,thank_you
+Shut down the system. ,shut_down
+What time do you have on your clock?,time
+"Tell me a joke, please.",tell_joke
+Resume playing the song.,resume_song
+What is the weather in Delhi?,get_weather
+Restart the song.,restart_song
+What is the weather outside?,get_weather
+What is the weather forecast for tomorrow?,get_weather
+Play a track.,play_song
+What is the temperature in Paris?,get_weather
+Turn off the device. ,shut_down
+Stop the song. ,stop_song
+Can you tell me a joke?,tell_joke
+Play a song by The Beatles. ,play_song
+Give me a joke.,tell_joke
+Play the song from the beginning.,play_song
+Who was Marie Curie?,fetch_info
+What’s the time now?,time
+Tell me a joke to cheer me up.,tell_joke
+Could you tell me a joke?,tell_joke
+Resume the music now.,resume_song
+Do you know a joke?,tell_joke
+Turn off the system.,shut_down
+Play a song with a happy vibe.,play_song
+Who is Steve Jobs?,fetch_info
+Can you tell the time?,time
+Shut down the system.,shut_down
+Thanks!,thank_you
+Please let me know the time.,time
+Give me information about Stephen Hawking.,fetch_info
+Continue playing the song.,resume_song
+Shut down.,shut_down
+What’s the current time?,time
+Can you play a song again?,play_song
+Can you give me the current time?,time
+Play a song.,play_song
+Could you stop the music?,stop_song
+What is the weather in Bangalore?,get_weather
+Please resume track.,resume_song
+What time does your clock show?,time
+Can you find me a joke?,tell_joke
+Can you pause the music?,pause_song
+What is the exact time?,time
+Play the song where it stopped.,play_song
+Play a pop song for me.,play_song
+Tell me what time it is.,time
+Resume the current track.,resume_song
+Play the song from the start.,restart_song
+Pause the music now.,pause_song
+what is labeling. ,fetch_info
+Pause the playback.,pause_song
+I want to know the time.,time
+Resume the music playback. ,resume_song
+Resume the song from where it left off.,resume_song
+Give me details on Alan Turing.,fetch_info
+Can you pause the music?,pause_song
+Pause the playback.,pause_song
+Play a tune.,play_song
+Stop the music playback.,stop_song
+Restart the track.,restart_song
+Play a classical piece. ,play_song
+What time is it?,time
+Thank you so much!,thank_you
+Pause this song.,pause_song
+Shut down the computer.,shut_down
+Start the song over.,restart_song
+Stop the system.,shut_down
+Play something. ,play_song
+Thanks a lot!,thank_you
+Can you play some music?,play_song
+Tell me a light-hearted joke. ,tell_joke
+Pause the current song. ,pause_song
+Who was Nikola Tesla?,fetch_info
+Stop the audio. ,stop_song
+Please let me know what time it is.,time
+Tell me a joke. ,tell_joke
+Resume the track.,resume_song
+Power off the system. ,shut_down
+Can you restart the song? ,restart_song
+Please tell me the time.,time
+Stop playing music.,stop_song
+Give me some weather details.,get_weather
+Pause the ongoing track.,pause_song
+Who was Carl Sagan?,fetch_info
+Give me some information about Nikola Tesla.,fetch_info
+Pause the track.,pause_song
+Resume the song.,resume_song
+Who is Alan Turing?,fetch_info
+What is the temperature outside?,get_weather
+Do you know the time?,time
+Play my favorite song.,play_song
+Tell me the weather for today.,get_weather
+Tell me the weather.,get_weather
+Please play naatu naatu.,play_song
+Resume playback.,resume_song
+Can you tell me the time right now?,time
+Play a fast song in Tamil.,play_song
+Play the song from the start.,restart_song
+What is the phone.,fetch_info
+Stop the playback.,stop_song
+Can you provide the current time?,time
+What is the weather in Los Angeles?,get_weather
+Shut down the computer. ,shut_down
+What is the notebook.,fetch_info
+what is weather in kerala.,get_weather
+kindly give temperature in malappuram today. ,get_weather
+what is the richest country in the world,fetch_info
+what is the font.,fetch_info
+what is the time now?,time
